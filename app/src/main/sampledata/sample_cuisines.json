@@ -1,0 +1,40 @@
+{
+  "cuisines": [
+    {
+      "id": 1,
+      "name": "Italian",
+      "items": [
+        {
+          "id": 101,
+          "name": "Margherita Pizza",
+          "price": 10.99,
+          "description": "Classic cheese pizza with tomato sauce"
+        },
+        {
+          "id": 102,
+          "name": "Pasta Alfredo",
+          "price": 12.50,
+          "description": "Creamy white sauce pasta"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Indian",
+      "items": [
+        {
+          "id": 201,
+          "name": "Butter Chicken",
+          "price": 13.99,
+          "description": "Rich creamy tomato chicken curry"
+        },
+        {
+          "id": 202,
+          "name": "Paneer Tikka",
+          "price": 9.99,
+          "description": "Spicy grilled cottage cheese cubes"
+        }
+      ]
+    }
+  ]
+}

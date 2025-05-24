@@ -1,0 +1,8 @@
+<resources>
+    <string name="language_toggle">English / हिंदी</string>
+    <string name="app_name">वनबैंक रेस्टोरेंट</string>
+    <string name="go_to_cart">कार्ट देखें</string>
+    <string name="top_dishes">टॉप डिशेज़</string>
+    <string name="place_order">ऑर्डर करें</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="language_toggle">हिंदी / English</string>
+    <string name="app_name">OneBanc Restaurant</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="top_dishes">Top Dishes</string>
+    <string name="place_order">Place Order</string>
+
+</resources>
